@@ -85,7 +85,7 @@ h1 {
 }
 
 h2 {
-    font-size: 10px;
+    font-size: 20px;
 }
 
 h3 {
@@ -226,7 +226,7 @@ button {
 }
 
 .titlepage h2 {
-    font-size: 40px;
+    font-size: 20px;
     color: #8f5339;
     line-height: 40px;
     font-weight: bold;
@@ -432,7 +432,7 @@ ul.top_infomation li a:hover {
 .navigation.navbar-dark .navbar-nav .nav-link {
     margin: 0px 28px;
     color: #fff;
-    font-size: 17px;
+    font-size: 10px;
     line-height: 25px;
     font-weight: 400;
     border-radius: 0px;
@@ -1014,7 +1014,7 @@ input[type="radio"]:disabled+.label-text:before {
 #myCarousel .carousel-control-next:hover,
 #myCarousel .carousel-control-prev:focus,
 #myCarousel .carousel-control-prev:hover {
-    background-color: #71b924;
+    background-color: #8f5339;
     color: #fff;
 }
 
@@ -1069,7 +1069,7 @@ input[type="radio"]:disabled+.label-text:before {
 .main_form .send_btnt {
     font-size: 18px;
     transition: ease-in all 0.5s;
-    background-color: #73bd24;
+    background-color: #8f5339;
     text-transform: uppercase;
     color: #fff;
     max-width: 172px;
@@ -1084,7 +1084,7 @@ input[type="radio"]:disabled+.label-text:before {
 .main_form .send_btnt:hover {
     background-color: #fff;
     transition: ease-in all 0.5s;
-    color: #73bd24;
+    color: #8f5339;
 }
 
 #request *::placeholder {
@@ -1117,7 +1117,7 @@ ul.social_icon li a i {
 }
 
 ul.social_icon li a i:hover {
-    color: #73bd24;
+    color: #fff;
     transition: ease-in all 0.5s;
 }
 
@@ -1150,7 +1150,7 @@ ul.conta li i {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: #73bd24 solid 1px;
+    border: #8f5339 solid 1px;
     width: 75px;
     height: 65px;
     cursor: pointer;
@@ -1177,14 +1177,14 @@ ul.conta li a {
     width: 100%;
     height: 45px;
     background: transparent;
-    color: #73bd24;
+    color: #8f5339;
     font-size: 17px;
     font-weight: normal;
     border: inherit;
     box-shadow: inherit;
     padding: 0;
     padding-right: 115px;
-    border-bottom: #73bd24 solid 1px;
+    border-bottom: #8f5339 solid 1px;
 }
 
 .subsci_btn {
@@ -1192,7 +1192,7 @@ ul.conta li a {
     transition: ease-in all 0.5s;
     background-color: transparent;
     text-transform: uppercase;
-    color: #73bd24;
+    color: #8f5339;
     display: block;
     font-weight: bold;
     line-height: 20px;
@@ -1231,7 +1231,7 @@ ul.conta li a {
 }
 
 .copyright a:hover {
-    color: #73bd24;
+    color: #fff;
 }
 
 
@@ -1312,7 +1312,7 @@ ul.conta li a {
 .main_form .send_btnt:hover {
     background-color: #fff;
     transition: ease-in all 0.5s;
-    color: #73bd24;
+    color: #fff;
 }
 
 #request *::placeholder {
