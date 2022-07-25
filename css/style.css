@@ -239,7 +239,7 @@ button {
     content: "";
     width: 100px;
     height: 6px;
-    background: #73bd24;
+    background: #2c2134;
     border-radius: 10px;
     margin: 0 auto;
     left: 0;
@@ -268,7 +268,7 @@ button {
 }
 
 .read_more:hover {
-    background: #73bd24;
+    background: #2c2134;
     color: #fff;
 }
 
@@ -326,7 +326,7 @@ button {
 }
 
 .top_header {
-    background: #73bd24;
+    background: #2c2134;
     display: flex;
     align-items: center;
     height: 54px;
