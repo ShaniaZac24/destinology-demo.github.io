@@ -438,22 +438,22 @@ ul.top_infomation li a:hover {
     border-radius: 0px;
     text-transform: uppercase;
     padding: 0;
-    border-bottom: #73bd2400 solid 4px;
+    border-bottom: #8f5339 solid 4px;
     cursor: pointer;
 }
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-    color: #2c2134;
-    border-bottom: #2c2134 solid 4px;
+    color: #8f5339;
+    border-bottom: ##8f5339solid 4px;
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
-    color: #2c2134;
-    border-bottom: #2c2134 solid 4px;
+    color: #8f5339;
+    border-bottom: #8f5339 solid 4px;
 }
 
 .di_no {
