@@ -522,12 +522,12 @@ ul.email li i {
     display: inline-block;
     text-transform: uppercase;
     background: #fff;
-    color: #73bd24;
+    color: #8f5339;
     font-weight: 500;
 }
 
 .board .read_more:hover {
-    background: #73bd24;
+    background: #8f5339;
     color: #fff;
 }
 
@@ -540,14 +540,14 @@ ul.email li i {
     width: 61px;
     height: 61px;
     background-color: transparent;
-    color: #73bd24;
+    color: #8f5339;
     font-size: 35px;
     opacity: 1;
     top: 40%;
     box-shadow: 0 0 65px rgba(30, 30, 30, 0.24);
     z-index: 999;
     border-radius: 50px;
-    border: #73bd24 solid 2px;
+    border: #8f5339 solid 2px;
 }
 
 #carouselExampleIndicators .carousel-control-prev {
@@ -572,7 +572,7 @@ ul.email li i {
 /** our_packages **/
 
 .our_packages {
-    border-top: #73bd24 solid 125px;
+    border-top: #8f5339 solid 125px;
 }
 
 .our_packages .titlepage {
@@ -588,7 +588,7 @@ ul.email li i {
 
 .table_form .titlepage h3 {
     padding-bottom: 10px;
-    color: #73bd24;
+    color: #8f5339;
     font-size: 20px;
     font-weight: 400;
     text-transform: uppercase;
@@ -662,7 +662,7 @@ label {
 }
 
 .send_btn:hover {
-    background: #73bd24;
+    background: #8f5339;
     color: #fff;
     transition: ease-in all 0.5s;
 }
@@ -761,7 +761,7 @@ input[type="radio"]+.label-text:before {
 
 input[type="radio"]:checked+.label-text:before {
     content: "\f192";
-    color: #73bd24;
+    color: #8f5339;
     animation: effect 250ms ease-in;
 }
 
