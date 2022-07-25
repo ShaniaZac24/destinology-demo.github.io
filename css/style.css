@@ -179,7 +179,7 @@ img {
 .lead {
     font-size: 14px;
     line-height: 30px;
-    color: #87675c;
+    color: #a0b893;
     margin: 0;
     padding: 0;
 }
@@ -227,7 +227,7 @@ button {
 
 .titlepage h2 {
     font-size: 40px;
-    color: #313131;
+    color: #a0b893;
     line-height: 40px;
     font-weight: bold;
     padding: 0;
@@ -239,7 +239,7 @@ button {
     content: "";
     width: 100px;
     height: 6px;
-    background: #2c2134;
+    background: #a0b893;
     border-radius: 10px;
     margin: 0 auto;
     left: 0;
@@ -255,7 +255,7 @@ button {
 
 .read_more {
     font-size: 17px;
-    background: #313131;
+    background: #a0b893;
     max-width: 232px;
     width: 100%;
     transition: ease-in all 0.5s;
@@ -268,7 +268,7 @@ button {
 }
 
 .read_more:hover {
-    background: #2c2134;
+    background: #a0b893;
     color: #fff;
 }
 
