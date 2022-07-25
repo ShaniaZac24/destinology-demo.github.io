@@ -254,8 +254,8 @@ button {
 }
 
 .read_more {
-    font-size: 17px;
-    background: #a0b893;
+    font-size: 12px;
+    background: #8f5339;
     max-width: 232px;
     width: 100%;
     transition: ease-in all 0.5s;
@@ -268,7 +268,7 @@ button {
 }
 
 .read_more:hover {
-    background: #a0b893;
+    background: #8f5339;
     color: #fff;
 }
 
